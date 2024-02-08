@@ -9,6 +9,7 @@ This is a basic Vanilla JavaScript project that demonstrates event handling and 
 **<h4>GETTING STARTED</h4>**
 To run the project locally, follow these steps:
 
+Fork the repository. <br />
 Clone the repository to your local machine:
 ```git
 git clone https://github.com/Iam-kelvin/Js.git
