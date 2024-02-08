@@ -11,7 +11,7 @@ To run the project locally, follow these steps:
 
 Clone the repository to your local machine:
 ```git
-git clone git@github.com:Iam-kelvin/Js.git
+git clone https://github.com/Iam-kelvin/Js.git
 ```
 Navigate to the project directory:
 ```
